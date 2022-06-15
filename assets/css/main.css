@@ -8,6 +8,18 @@
 */
 
 
+.img-col {
+	cursor: pointer;
+	transform: scale(1.0);
+	transition: all .6s ease;
+}
+
+.img-col:hover{
+	cursor: pointer;
+	transform: scale(1.01);
+	transition: all .6s ease;
+}
+
 .video-container{
 	width: 100vw;
 	height: 100vh;
