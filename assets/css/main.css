@@ -8,6 +8,8 @@
 */
 
 
+html { scroll-behavior: smooth; } 
+
 .img-col {
 	cursor: pointer;
 	transform: scale(1.0);
